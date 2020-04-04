@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book>
+        <title>Sessiz Ev</title>
+        <author>Orhan Pamuk</author>
+        <publisher>Yapı Kredi Yayınları</publisher>
+        <isbn>9789750826702</isbn>
+        <date>2014</date>
+        <price>23.40 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Sessiz-Ev/Edebiyat/Roman/Turkiye-Roman/urunno=0000000576653</url>
+    </book>
+    
+    <book>
+         <title>Yeni Hayat>/title>
+         <author>Orhan Pamuk</author>
+         <publisher>Yapı Kredi Yayınları</publisher>
+         <isbn>9789750826481</isbn>
+         <date>2016</date>
+         <price>17.16 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Yeni-Hayat/Edebiyat/Roman/Turkiye-Roman/urunno=0000000565833</url>
+    </book>
+    
+    <book>
+         <title>Fahrenheit 451>/title>
+         <author>Ray Bradbury</author>
+         <publisher>İthaki Yayınları</publisher>
+         <isbn>9786053757818</isbn>
+         <date>2018</date>
+         <price>17.40 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001</url
+    </book>
+    
+    <book>
+         <title>1981>/title>
+         <author>George Orwell</author>
+         <publisher>Can Yayınları</publisher>
+         <isbn>9789750718533</isbn>
+         <date>2000</date>
+         <price>24.50 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038</url>
+    </book>
+    
+    <book>
+         <title>Sineklerin Tanrısı>/title>
+         <author>William Golding</author>
+         <publisher>İş Bankası Yayınları</publisher>
+         <isbn>9789750718533</isbn>
+         <date>2006</date>
+         <price>11.26 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Sineklerin-Tanrisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800</url>
+    </book>
+    
+    <book>
+         <title>Yahya Kemal Beyatlı>/title>
+         <author>RızHalk Kitabevi</publisher>
+         <isbn>9786052365793</isbn>
+         <date>2018</date>
+         <price>15.00 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Yahya-Kemal-Beyatli/Edebiyat/Biyografi-Oto-Biyografi/urunno=0001777628001</url
+    </book>
+    
+    <book>
+         <title>Kurt Kanunu>/title>
+         <author>Kemal Tahir</author>
+         <publisher>İthaki Yayınları</publisher>
+         <isbn>9786053759799</isbn>
+         <date>2018</date>
+         <price>16.00 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Kurt-Kanunu/Edebiyat/Roman/Turkiye-Roman/urunno=0000000187038</url>
+    </book>
+    
+    <book>
+         <title>Yol Ayrımı>/title>
+         <author>Kemal Tahir</author>
+         <publisher>İthaki Yayınları</publisher>
+         <isbn>9789752731295</isbn>
+         <date>2016</date>
+         <price>22.75 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Yol-Ayrimi/Edebiyat/Roman/Turkiye-Roman/urunno=0000000176771</url
+    </book>
+    
+    <book>
+         <title>Bir Ömür Nasıl Yaşanır?>/title>
+         <author>İlber Ortaylı</author>
+         <publisher>Kronik Kitap</publisher>
+         <isbn>9789752430990</isbn>
+         <date>2019</date>
+         <price>19.25 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Bir-Omur-Nasil-Yasanir/Ilber-Ortayli/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001796150001</url>
+    </book>
+    
+    <book>
+         <title>Suç ve Ceza>/title>
+         <author>Fyodor Mihayloviç Dostoyevski</author>
+         <publisher>Kronik Kitap</publisher>
+         <isbn>9789750516146</isbn>
+         <date>2014</date>
+         <price>30.42 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Suc-Ve-Ceza/Edebiyat/Roman/Dunya-Klasik/urunno=0000000610675</url>
+    </book>
+    
+    <book>
+         <title>Orlando>/title>
+         <author>Wirgina Woolf</author>
+         <publisher>Kırmızı Kedi</publisher>
+         <isbn>9786054927654</isbn>
+         <date>2014</date>
+         <price>13.20 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Orlando/Edebiyat/Roman/Dunya-Roman/urunno=0000000611279</book>
+    </book>
+    
+    <book>
+         <title>Uçurtma Avcısı>/title>
+         <author>Khaled Hosseini</author>
+         <publisher>Everest Yayınları</publisher>
+         <isbn>9789752891456</isbn>
+         <date>2004</date>
+         <price>26.13TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Ucurtma-Avcisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000153127</url>
+    </book>
+    
+    <book>
+         <title>İnce Memed 3>/title>
+         <author>Yaşar Kemal</author>
+         <publisher>Yapı Kredi Yayınları</publisher>
+         <isbn>9789750807039</isbn>
+         <date>2016</date>
+         <price>39.00TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Ince-Memed-3/Edebiyat/Roman/Turkiye-Roman/urunno=0000000147920</url>
+    </book>
+    
+    <book>
+        <title>Tehlikeli Oyunlar>/title>
+         <author>Oğuz Atay</author>
+         <publisher>İletişim Yayınları</publisher>
+         <isbn>9789754700114</isbn>
+         <date>2000</date>
+         <price>37.44TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Tehlikeli-Oyunlar/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061603</url>
+    </book>
+    
+    <book>
+         <title>Tutunamayanlar>/title>
+         <author>Oğuz Atay</author>
+         <publisher>İletişim Yayınları</publisher>
+         <isbn>9789754700114</isbn>
+         <date>2000</date>
+         <price>42.41TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Tutunamayanlar-Butun-Eserleri-1/Oguz-Atay/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061424</url>
+    </book>
+    
+    <book>
+         <title>Serenad>/title>
+         <author>Zülfü Livaneli</author>
+         <publisher>Doğan Kitap</publisher>
+         <isbn>9786050900286</isbn>
+         <date>2016</date>
+         <price>27.02TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Serenad/Edebiyat/Roman/Turkiye-Roman/urunno=0000000357335</url>
+    </book>
+    
+    <book>
+         <title>Huzursuzluk>/title>
+         <author>Zülfü Livaneli</author>
+         <publisher>Doğan Kitap</publisher>
+         <isbn>9786050939828</isbn>
+         <date>2017</date>
+         <price>23.25TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Huzursuzluk/Edebiyat/Roman/Turkiye-Roman/urunno=0001683026001</url>
+    </book>
+    
+    <book>
+         <title>Son Ada>/title>
+         <author>Zülfü Livaneli</author>
+         <publisher>Doğan Kitap</publisher>
+         <isbn>9786050939828</isbn>
+         <date>2015</date>
+         <price>20.15TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Son-Ada/Edebiyat/Roman/Turkiye-Roman/urunno=0000000457487</url>
+    </book>
+    
+    <book>
+        <title>Akşam Yıldızı>/title>
+         <author>İskender Pala</author>
+         <publisher>Doğan Kitap</publisher>
+         <isbn>9786050939828</isbn>
+         <date>2020</date>
+         <price>14.74TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Aksam-Yildizi-Bir-Gobeklitepe-Romani/Iskender-Pala/Edebiyat/Roman/Turkiye-Roman/urunno=0001856527001</url>
+    </book>
+    
+    <book>
+         <title>Masumiyet Müzesi>/title>
+         <author>Orhan Pamuk</author>
+         <publisher>Yapı Kredi</publisher>
+         <isbn>9789750826146</isbn>
+         <date>2013</date>
+         <price>28.00TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Masumiyet-Muzesi/Edebiyat/Roman/Turkiye-Roman/urunno=0000000550626</url>
+    </book>
+    
+    <book>
+         <title>Simyacı>/title>
+         <author>Paulo Coelho</author>
+         <publisher>Can Yayınları</publisher>
+         <isbn>9789750726439</isbn>
+         <date>2013/0</date>
+         <price>16 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Simyaci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064552</url>
+    </book>
+    
+    <book>
+         <title>Şeker Portakalı>/title>
+         <author>Jose Mauro De Vasconcelos</author>
+         <publisher>Can Yayınları</publisher>
+         <isbn>9789750738609</isbn>
+         <date>2000/0</date>
+         <price>16.45 TL</price>
+         <language>Türkçe</language>
+         <url>https://www.dr.com.tr/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031</url>
+    </book>
+   
+   
+</catalogue>
+    
+    
+    
+         
+    
+         
+    
+    
+    
+    
+    
+         
+         
+         
+         
+         
+    
+         
+         
+         
+         
+         
